@@ -80,9 +80,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'contables_db',
-        'USER': 'root',
-        'PASSWORD':'',
-        'HOST': 'localhost',
+        'USER': 'flpserrano',
+        'PASSWORD':'anfgp042018',
+        'HOST': 'flpserrano.mysql.pythonanywhere-services.com',
         'PORT': 3306,
     }
 }
