@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'ProyectoSic.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'contables_db',
+        'NAME': 'flpserrano$contables_db',
         'USER': 'flpserrano',
         'PASSWORD':'anfgp042018',
         'HOST': 'flpserrano.mysql.pythonanywhere-services.com',
